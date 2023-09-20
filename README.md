@@ -6,3 +6,4 @@ I'm Gianlorenzo, a fella from :it:.
 -   :video_game: I am working on **Data Analysis**
 -   :monocle_face: Interested in **Financial Markets** and **Blockchain** 
 -   :seedling: Currently learning **C++**
+-   :climbing_man: **Boulder** and :soccer: **Football**
